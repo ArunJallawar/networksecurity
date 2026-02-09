@@ -5,4 +5,8 @@ pymongo
 certifi
 pymongo[srv]
 scikit-learn
+dill
+pyaml
 ##-e .
+
+## pip install -r requirements.txt
